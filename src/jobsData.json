@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "titulo": "Ingeniero de Software",
+    "Tecnología": "JavaScript, React, Node.js",
+    "compañia": "Google",
+    "ubicación": "Remoto",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Senior",
+    "descripcion": "Buscamos un ingeniero de software senior con sólida experiencia en desarrollo frontend y backend utilizando React y Node.js. Serás responsable de diseñar arquitecturas escalables y mantenibles, participar activamente en revisiones de código y garantizar los estándares de calidad del equipo. Además, colaborarás en la mejora continua del rendimiento de las aplicaciones, identificando cuellos de botella y proponiendo soluciones técnicas efectivas. Se espera que guíes a desarrolladores de menor experiencia, contribuyas a la documentación técnica y participes en decisiones estratégicas del producto junto con los equipos de producto y diseño."
+  },
+  {
+    "id": 2,
+    "titulo": "Frontend Developer",
+    "Tecnología": "Vue, JavaScript",
+    "compañia": "Spotify",
+    "ubicación": "Berlin",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Mid",
+    "descripcion": "Serás responsable de desarrollar interfaces modernas, responsivas y accesibles utilizando Vue.js y JavaScript. Trabajarás en estrecha colaboración con diseñadores UX/UI para traducir wireframes y prototipos en componentes reutilizables de alta calidad. Participarás en la definición de la arquitectura del frontend, asegurando que las decisiones técnicas se alineen con los objetivos del negocio. También realizarás pruebas unitarias y de integración, optimizarás el rendimiento del lado del cliente y garantizarás la compatibilidad entre navegadores y dispositivos."
+  },
+  {
+    "id": 3,
+    "titulo": "Backend Developer",
+    "Tecnología": "Node.js, Python",
+    "compañia": "Amazon",
+    "ubicación": "Remoto",
+    "tipoDeContrato": "Freelance",
+    "Experiencia": "Senior",
+    "descripcion": "Serás el encargado del diseño, desarrollo y mantenimiento de APIs RESTful y servicios backend escalables utilizando Node.js y Python. Se requiere experiencia avanzada en bases de datos relacionales y no relacionales, así como en la optimización de consultas para entornos de alta concurrencia. Deberás implementar buenas prácticas de seguridad como autenticación, autorización y cifrado de datos. Además, participarás en revisiones de arquitectura, colaborarás con equipos de infraestructura para despliegues en la nube y te asegurarás de que los servicios cumplan con los SLAs definidos."
+  },
+  {
+    "id": 4,
+    "titulo": "Fullstack Developer",
+    "Tecnología": "Angular, Java",
+    "compañia": "IBM",
+    "ubicación": "Bogotá",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Mid",
+    "descripcion": "Desarrollarás aplicaciones empresariales completas, trabajando tanto en el frontend con Angular como en el backend con Java. Participarás activamente en todo el ciclo de vida del software, desde el análisis de requerimientos y el diseño hasta la implementación, las pruebas y el despliegue. Trabajarás con equipos multifuncionales para garantizar soluciones robustas y bien documentadas. Se espera que manejes integraciones con servicios externos, bases de datos relacionales y patrones de diseño orientados a objetos para asegurar la mantenibilidad del código."
+  },
+  {
+    "id": 5,
+    "titulo": "Junior Developer",
+    "Tecnología": "React, JavaScript",
+    "compañia": "Microsoft",
+    "ubicación": "Remoto",
+    "tipoDeContrato": "Prácticas",
+    "Experiencia": "Junior",
+    "descripcion": "Esta es una oportunidad ideal para desarrolladores en etapa inicial que deseen adquirir experiencia real en un entorno profesional y dinámico. Aprenderás y aplicarás buenas prácticas de desarrollo de software como control de versiones con Git, revisiones de código y metodologías ágiles. Trabajarás con componentes reutilizables en React y JavaScript, colaborando con desarrolladores senior que te brindarán mentoría constante. Participarás en proyectos reales con impacto directo en los usuarios, lo que te permitirá crecer técnica y profesionalmente de manera acelerada."
+  },
+  {
+    "id": 6,
+    "titulo": "Tech Lead",
+    "Tecnología": "Node.js, Python",
+    "compañia": "Netflix",
+    "ubicación": "Suiza",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Lead",
+    "descripcion": "Liderarás un equipo de desarrollo altamente capacitado, siendo el referente técnico del grupo y tomando decisiones clave sobre arquitectura y tecnología. Serás responsable de definir las mejores prácticas del equipo, asegurar la calidad del código mediante revisiones exhaustivas y planificar la hoja de ruta técnica del producto. También asumirás un rol de mentoría activa para los desarrolladores junior y mid del equipo, fomentando su crecimiento profesional. Coordinarás con otros líderes técnicos y stakeholders para alinear los esfuerzos de ingeniería con los objetivos estratégicos de la organización."
+  },
+  {
+    "id": 7,
+    "titulo": "Desarrollador Frontend",
+    "Tecnología": "React, JavaScript",
+    "compañia": "Meta",
+    "ubicación": "Remoto",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Mid",
+    "descripcion": "Construirás interfaces interactivas, dinámicas y de alto rendimiento utilizando React y JavaScript. Trabajarás en la optimización del rendimiento del frontend, reduciendo tiempos de carga y mejorando la experiencia del usuario en diferentes dispositivos y condiciones de red. También serás responsable de garantizar la accesibilidad de las interfaces según los estándares WCAG, consumir APIs modernas y colaborar con los equipos de diseño y backend para asegurar una integración fluida y coherente entre las distintas capas del sistema."
+  },
+  {
+    "id": 8,
+    "titulo": "Ingeniero Backend",
+    "Tecnología": "Node.js, Java",
+    "compañia": "Oracle",
+    "ubicación": "Berlin",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Senior",
+    "descripcion": "Te encargarás del diseño e implementación de sistemas backend robustos, confiables y de alta disponibilidad utilizando Node.js y Java. Se valorará especialmente la experiencia en arquitecturas de microservicios, contenedores con Docker y orquestación con Kubernetes, así como en el diseño de arquitecturas distribuidas tolerantes a fallos. Participarás en la definición de estándares técnicos, realizarás revisiones de código y colaborarás con los equipos de infraestructura y seguridad para garantizar la resiliencia y el cumplimiento normativo de los sistemas."
+  },
+  {
+    "id": 9,
+    "titulo": "Fullstack Developer",
+    "Tecnología": "Vue, Node.js",
+    "compañia": "Spotify",
+    "ubicación": "Remoto",
+    "tipoDeContrato": "Freelance",
+    "Experiencia": "Mid",
+    "descripcion": "Desarrollarás aplicaciones completas utilizando Vue.js en el frontend y Node.js en el backend, con enfoque en la calidad del código y la experiencia del usuario. Participarás en el desarrollo de nuevas funcionalidades, la corrección de errores y el mantenimiento evolutivo de la plataforma. Trabajarás de forma autónoma gestionando tus propios tiempos y entregables, comunicándote regularmente con el equipo para asegurar la alineación técnica. Se espera capacidad para tomar decisiones de diseño de software de manera independiente y documentar adecuadamente tus contribuciones."
+  },
+  {
+    "id": 10,
+    "titulo": "Ingeniero de Software",
+    "Tecnología": "Python, Java",
+    "compañia": "Google",
+    "ubicación": "Tokio",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Senior",
+    "descripcion": "Trabajarás en el diseño y desarrollo de sistemas distribuidos capaces de procesar grandes volúmenes de datos de manera eficiente y confiable, utilizando Python y Java. Se requiere experiencia profunda en algoritmos, estructuras de datos y técnicas de optimización de rendimiento a escala. Colaborarás con equipos de ingeniería globales para construir soluciones que soporten millones de usuarios simultáneos. También participarás en la definición de estándares de ingeniería, realizarás revisiones de diseño técnico y contribuirás a la cultura de excelencia técnica del equipo."
+  },
+  {
+    "id": 11,
+    "titulo": "Desarrollador Web",
+    "Tecnología": "JavaScript, Angular",
+    "compañia": "IBM",
+    "ubicación": "Bogotá",
+    "tipoDeContrato": "Medio tiempo",
+    "Experiencia": "Junior",
+    "descripcion": "Participarás en el desarrollo, mantenimiento y mejora de aplicaciones web empresariales utilizando JavaScript y Angular. Esta posición es ideal para profesionales que buscan ganar experiencia práctica en entornos corporativos y aprender metodologías de trabajo en equipo. Recibirás acompañamiento de desarrolladores senior y tendrás la oportunidad de contribuir a proyectos reales con impacto tangible. Se espera disposición para aprender, capacidad de adaptación y compromiso con las buenas prácticas de codificación, incluyendo pruebas básicas y documentación del código."
+  },
+  {
+    "id": 12,
+    "titulo": "Frontend Engineer",
+    "Tecnología": "React, Vue",
+    "compañia": "Microsoft",
+    "ubicación": "Remoto",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Senior",
+    "descripcion": "Serás el responsable de mejorar y evolucionar la experiencia de usuario en aplicaciones web complejas y de alto tráfico, utilizando tanto React como Vue según el contexto del proyecto. Trabajarás con equipos multidisciplinarios formados por diseñadores, ingenieros de backend y product managers para entregar soluciones de calidad. Definirás estándares de desarrollo frontend, implementarás patrones de diseño avanzados y asegurarás la consistencia visual y técnica entre los distintos productos de la organización. También liderarás iniciativas de mejora de rendimiento y accesibilidad a nivel de plataforma."
+  },
+  {
+    "id": 13,
+    "titulo": "Backend Engineer",
+    "Tecnología": "Node.js, Python",
+    "compañia": "Amazon",
+    "ubicación": "Suiza",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Lead",
+    "descripcion": "Diseñarás e implementarás arquitecturas backend de alto rendimiento y alta disponibilidad utilizando Node.js y Python, garantizando la escalabilidad del sistema ante picos de demanda. Liderarás las decisiones técnicas del equipo de backend, asegurando la coherencia arquitectónica y la calidad del código. Colaborarás con equipos de producto, infraestructura y seguridad para definir soluciones robustas y mantenibles a largo plazo. Además, mentorizarás a ingenieros senior y mid del equipo, promoviendo una cultura de mejora continua, documentación y aprendizaje compartido."
+  },
+  {
+    "id": 14,
+    "titulo": "Software Developer",
+    "Tecnología": "Java, Angular",
+    "compañia": "Oracle",
+    "ubicación": "Berlin",
+    "tipoDeContrato": "Freelance",
+    "Experiencia": "Mid",
+    "descripcion": "Desarrollarás soluciones empresariales personalizadas utilizando Java en el backend y Angular en el frontend, trabajando de forma autónoma y orientada a resultados. Se espera que seas capaz de analizar requerimientos, proponer soluciones técnicas adecuadas y ejecutarlas con alta calidad dentro de los plazos acordados. Trabajarás con clientes y equipos internos para asegurar que las soluciones cumplan con los estándares técnicos y de negocio. También deberás gestionar la documentación técnica, las entregas y la comunicación de avances de manera proactiva y profesional."
+  },
+  {
+    "id": 15,
+    "titulo": "Ingeniero Fullstack",
+    "Tecnología": "React, Node.js",
+    "compañia": "Netflix",
+    "ubicación": "Remoto",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Senior",
+    "descripcion": "Construirás plataformas escalables de extremo a extremo, utilizando React para el frontend y Node.js para el backend, con foco en rendimiento, mantenibilidad y experiencia del usuario. Participarás activamente en las decisiones de arquitectura del sistema, colaborando con equipos de producto e infraestructura para garantizar soluciones técnicas alineadas con los objetivos del negocio. Impulsarás la mejora continua del producto a través de refactorizaciones, optimizaciones y la incorporación de nuevas tecnologías. Se espera que seas un referente técnico dentro del equipo, capaz de comunicar soluciones complejas de forma clara."
+  },
+  {
+    "id": 16,
+    "titulo": "Junior Frontend",
+    "Tecnología": "Vue, JavaScript",
+    "compañia": "Spotify",
+    "ubicación": "Bogotá",
+    "tipoDeContrato": "Prácticas",
+    "Experiencia": "Junior",
+    "descripcion": "Brindarás apoyo en el desarrollo de interfaces de usuario con Vue.js y JavaScript, aprendiendo buenas prácticas de la industria en un entorno colaborativo y estimulante. Trabajarás junto a equipos experimentados que te guiarán en el uso de herramientas modernas, metodologías ágiles y estándares de calidad del código. Tendrás la oportunidad de contribuir a proyectos reales con millones de usuarios, lo que acelerará significativamente tu desarrollo profesional. Se valora la curiosidad, la actitud proactiva y las ganas de aprender y mejorar constantemente."
+  },
+  {
+    "id": 17,
+    "titulo": "Backend Developer",
+    "Tecnología": "Python, Node.js",
+    "compañia": "Meta",
+    "ubicación": "Tokio",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Mid",
+    "descripcion": "Implementarás APIs robustas, lógica de negocio compleja y soluciones de manejo de bases de datos utilizando Python y Node.js. Participarás activamente en el diseño y desarrollo de nuevas funcionalidades, colaborando con los equipos de frontend, datos e infraestructura para asegurar una integración eficiente. Deberás garantizar la calidad del código mediante pruebas automatizadas, revisiones y documentación adecuada. Se espera que seas capaz de analizar problemas técnicos, proponer soluciones escalables y comunicar tus decisiones de manera clara al equipo."
+  },
+  {
+    "id": 18,
+    "titulo": "Tech Lead",
+    "Tecnología": "Java, Node.js",
+    "compañia": "IBM",
+    "ubicación": "Suiza",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Lead",
+    "descripcion": "Liderarás un equipo técnico multidisciplinario, siendo el responsable de definir la arquitectura del sistema, establecer los estándares de desarrollo y asegurar la coherencia técnica entre los distintos componentes del producto. Guiarás el crecimiento profesional de los desarrolladores junior y mid mediante mentoría activa, sesiones de revisión y feedback constructivo. Serás el puente entre el equipo de ingeniería y los stakeholders del negocio, traduciendo necesidades funcionales en soluciones técnicas viables. También participarás en la planificación de sprints, estimaciones y gestión de la deuda técnica del proyecto."
+  },
+  {
+    "id": 19,
+    "titulo": "Frontend Developer",
+    "Tecnología": "React, JavaScript",
+    "compañia": "Google",
+    "ubicación": "Berlin",
+    "tipoDeContrato": "Tiempo completo",
+    "Experiencia": "Mid",
+    "descripcion": "Crearás interfaces dinámicas, accesibles y altamente optimizadas utilizando React y JavaScript, asegurando una experiencia de usuario fluida en todos los dispositivos. Colaborarás estrechamente con los equipos de diseño para implementar soluciones visuales que respeten los sistemas de diseño establecidos, y con el equipo de backend para integrar APIs de manera eficiente. Participarás en revisiones de código, escribirás pruebas unitarias y de componentes, y contribuirás a la mejora continua de la arquitectura del frontend. Se valora la atención al detalle, la iniciativa y la capacidad de trabajo en equipo en un entorno internacional."
+  },
+  {
+    "id": 20,
+    "titulo": "Software Engineer",
+    "Tecnología": "Python, Java",
+    "compañia": "Microsoft",
+    "ubicación": "Remoto",
+    "tipoDeContrato": "Freelance",
+    "Experiencia": "Senior",
+    "descripcion": "Desarrollarás microservicios y soluciones backend robustas utilizando Python y Java, con un fuerte enfoque en la arquitectura distribuida y el despliegue en entornos cloud. Se valorará la experiencia con plataformas como AWS, Azure o GCP, así como el conocimiento de patrones de diseño para sistemas de alta disponibilidad y resiliencia. Trabajarás de forma independiente, gestionando tus propios plazos y entregables, con comunicación regular con el equipo para asegurar la alineación técnica. Se espera capacidad para documentar decisiones de arquitectura, proponer mejoras y contribuir al ecosistema técnico de manera proactiva."
+  }
+]

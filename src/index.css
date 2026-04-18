@@ -1,1 +1,18 @@
 @import 'tailwindcss';
+
+*{
+  box-sizing: border-box;
+  color: #f0f8ffa8;
+}
+
+body{
+  background-color: #1b1b1b;
+  /* background-color: #390eb1cb; */
+}
+
+button{
+  padding: 0 .6rem;
+}
+Link{
+  color: #390eb1cb;
+}
