@@ -67,17 +67,14 @@ export function HomePage() {
         </p>
         <div className="flex gap-6 flex-wrap justify-center">
           {cardsInfo.map(({ title, image, description }) => (
-            <div
-              key={title}
-              className="border rounded-lg overflow-hidden w-[300px]"
-            >
+            <div key={title} className="border overflow-hidden w-[300px]">
               <img
                 src={image}
                 alt={title}
                 className="w-full h-48 object-cover"
               />
               <div className="p-4">
-                <h3 className="text-xl text-center font-semibold mb-2">
+                <h3 className="px-4 text-xl text-center font-semibold mb-2">
                   {title}
                 </h3>
                 <p className="text-center">{description}</p>
