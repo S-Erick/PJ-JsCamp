@@ -36,7 +36,7 @@ export function HomePage() {
 
   return (
     <main className=" w-[100%] flex flex-col items-center justify-center">
-      <section className="flex flex-col w-full h-[90vh] items-center justify-center gap-6">
+      <section className="flex flex-col w-full h-full items-center justify-center gap-6">
         <h1 className="text-4xl text-center font-bold">Bienvenido a DevJobs</h1>
         <p className="text-lg mt-4 text-center">
           Tu portal de empleo para desarrolladores. <br /> Encuentra tu próximo
@@ -57,7 +57,7 @@ export function HomePage() {
           </button>
         </form>
       </section>
-      <section className="flex flex-col w-full h-[100vh] items-center justify-center gap-6">
+      <section className="flex flex-col w-full h-full items-center justify-center gap-6">
         <h2 className="text-2xl font-semibold">¿Por qué DevJobs?</h2>
         <p className="text-center">
           DebJobs es la principal plataforma de empleo para desarrolladores en
